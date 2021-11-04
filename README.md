@@ -10,9 +10,9 @@ Simply load the app and select the word that most closely describes how you are 
 
 # Development Environment
 
-{Describe the tools that you used to develop the app}
+Created with Xcode 13 for iphones running IOS 15. optimized for iphone 11.
 
-{Describe the programming language that you used and any libraries.}
+Swift programming language
 
 # Useful Websites
 

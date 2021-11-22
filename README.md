@@ -6,7 +6,7 @@ This app was created as a way for someone to save their mood throught the day or
 
 Simply load the app and select the word that most closely describes how you are feeling. It will then pull up a new screen that will let you input a note about it, save it, and give you a quote based off of what you selected that if you tap the quote button.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/23AImtB5W5k)
 
 # Development Environment
 
